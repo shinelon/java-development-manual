@@ -73,6 +73,3 @@ git clone https://github.com/<your-username>/java-development-manual.git
 
 本项目的整理内容采用 MIT License，但原《阿里巴巴 Java 开发手册》的内容版权归阿里巴巴集团所有。
 
-## SkillsMP
-
-本 Skill 已提交至 [SkillsMP](https://skillsmp.com)，可通过该平台发现和安装。
